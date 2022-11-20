@@ -1,0 +1,23 @@
+.flower-container{
+    text-align: center;
+    width: 200px; 
+    margin-left:500px;
+   
+}
+.rose{
+    background-color: red;
+    width:260px;
+    height: 60px;
+    padding-top:16px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    
+}
+.sunflower{
+    background-color: yellow;
+    width:260px;
+    height: 60px;
+    padding-top:16px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+}

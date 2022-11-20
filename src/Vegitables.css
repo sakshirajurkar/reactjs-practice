@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    width: 200px; 
+    margin-left:500px;
+}
+.broccoli{
+    background-color:green;
+    width:260px;
+    height: 60px;
+    padding-top: 20px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    margin-left:500px;
+    color:white;
+    padding-left: 10px;
+}
+.brinjal{
+    background-color:purple;
+    width:250px;
+    height: 60px;
+    padding-top: 20px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    margin-left:500px;
+    padding-left: 20px;
+    color: azure;
+}
+.tomato{
+    background-color:tomato;
+    width:260px;
+    height: 60px;
+    padding-top: 20px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    margin-left:500px;
+    padding-left: 0px;
+
+}

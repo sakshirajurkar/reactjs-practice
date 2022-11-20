@@ -1,0 +1,24 @@
+.fruite-container {
+    text-align: center;
+    width: 200px; 
+    margin-left:500px;
+}
+
+.orange {
+    background-color: orange;
+    width:260px;
+    height: 50px;
+    padding-top:16px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    
+}
+.graphes{
+       background-color:greenyellow;
+       width:260px;
+    height: 50px;
+    padding-top:16px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    
+    }
